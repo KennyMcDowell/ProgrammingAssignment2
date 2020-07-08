@@ -1,4 +1,4 @@
-## Create a function that creates a matrix and stores the inverse of the matrix into the cache
+## Create a function that creates a matrix and also stores the inverse of the matrix into the cache
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
